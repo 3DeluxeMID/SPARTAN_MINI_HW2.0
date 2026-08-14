@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=POWER Member=MH4
+Added Component: Designator=MH?(HOLE 3.1mm)
+Added Pin To Net: NetName=GND Pin=MH?-13
+Added Member To Class: ClassName=POWER Member=Component MH? HOLE 3.1mm

@@ -1,0 +1,7 @@
+Added Component: Designator=*(HOLE 2.1MM)
+Add Pin To Net: Unknown Pin: Pin *-5
+Add Pin To Net: Unknown Pin: Pin MH1-5
+Add Pin To Net: Unknown Pin: Pin MH2-5
+Add Pin To Net: Unknown Pin: Pin MH3-5
+Add Pin To Net: Unknown Pin: Pin MH4-5
+Added Member To Class: ClassName=POWER Member=Component * HOLE 2.1 mm

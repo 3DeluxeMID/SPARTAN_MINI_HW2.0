@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=MH? NewDesignator=MH4
+Added Component: Designator=MH1(HOLE 3.1mm)
+Added Component: Designator=MH2(HOLE 3.1mm)
+Added Component: Designator=MH3(HOLE 3.1mm)
+Added Pin To Net: NetName=GND Pin=MH1-13
+Added Pin To Net: NetName=GND Pin=MH2-13
+Added Pin To Net: NetName=GND Pin=MH3-13
+Added Member To Class: ClassName=POWER Member=Component MH1 HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH2 HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH3 HOLE 3.1mm

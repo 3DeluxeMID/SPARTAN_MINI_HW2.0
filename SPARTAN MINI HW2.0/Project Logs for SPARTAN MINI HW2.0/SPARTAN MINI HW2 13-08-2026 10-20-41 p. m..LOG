@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=POWER Member=*
+Added Component: Designator=MH1(HOLE 3.1mm)
+Added Component: Designator=MH2(HOLE 3.1mm)
+Added Component: Designator=MH3(HOLE 3.1mm)
+Add Pin To Net: Unknown Pin: Pin MH1-5
+Add Pin To Net: Unknown Pin: Pin MH2-5
+Add Pin To Net: Unknown Pin: Pin MH3-5
+Add Pin To Net: Unknown Pin: Pin MH4-5

@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VJCMUVXA
 
 [Document5]
 DocumentPath=..\..\ALTIUM_LIBRARIES\CERAMIC CAPACITORS.SchLib
@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPPDEAQH
 
 [Document6]
 DocumentPath=..\..\ALTIUM_LIBRARIES\CONNECTORS.PcbLib
@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FQKXJHVD
 
 [Document7]
 DocumentPath=..\..\ALTIUM_LIBRARIES\CONNECTORS.SchLib
@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VVEQLIYR
 
 [Document8]
 DocumentPath=..\..\ALTIUM_LIBRARIES\DIP SWITCHES.PcbLib
@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FIPBSHIW
 
 [Document9]
 DocumentPath=..\..\ALTIUM_LIBRARIES\DIP SWITCHES.SchLib
@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YEBPMKTY
 
 [Document10]
 DocumentPath=..\..\ALTIUM_LIBRARIES\DISCRETE SEMI.PcbLib
@@ -216,7 +216,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FGXDRINN
 
 [Document11]
 DocumentPath=..\..\ALTIUM_LIBRARIES\DISCRETE SEMI.SchLib
@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IKKIHRAD
 
 [Document12]
 DocumentPath=..\..\ALTIUM_LIBRARIES\INDUCTORS.PcbLib
@@ -250,7 +250,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BLUJPVLD
 
 [Document13]
 DocumentPath=..\..\ALTIUM_LIBRARIES\INDUCTORS.SchLib
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NWOSFZAY
 
 [Document14]
 DocumentPath=..\..\ALTIUM_LIBRARIES\LEDS.PcbLib
@@ -284,7 +284,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HUHGTFQJ
 
 [Document15]
 DocumentPath=..\..\ALTIUM_LIBRARIES\LEDS.SchLib
@@ -301,7 +301,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UYHIEZWN
 
 [Document16]
 DocumentPath=..\..\ALTIUM_LIBRARIES\LINEAR REGULATORS.PcbLib
@@ -318,7 +318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUORLJSO
 
 [Document17]
 DocumentPath=..\..\ALTIUM_LIBRARIES\LINEAR REGULATORS.SchLib
@@ -335,7 +335,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZIFPZWRM
 
 [Document18]
 DocumentPath=..\..\ALTIUM_LIBRARIES\MICRO CONTROLLERS.PcbLib
@@ -352,7 +352,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CXOQKXDV
 
 [Document19]
 DocumentPath=..\..\ALTIUM_LIBRARIES\MICRO CONTROLLERS.SchLib
@@ -369,7 +369,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WQTUCIOM
 
 [Document20]
 DocumentPath=..\..\ALTIUM_LIBRARIES\MOTOR DRIVERS.PcbLib
@@ -386,7 +386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LRTTHYJC
 
 [Document21]
 DocumentPath=..\..\ALTIUM_LIBRARIES\MOTOR DRIVERS.SchLib
@@ -403,7 +403,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EDPINDZZ
 
 [Document22]
 DocumentPath=..\..\ALTIUM_LIBRARIES\PUSH BUTTONS.PcbLib
@@ -420,7 +420,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QGNDANKK
 
 [Document23]
 DocumentPath=..\..\ALTIUM_LIBRARIES\PUSH BUTTONS.SchLib
@@ -437,7 +437,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GDRTWSYB
 
 [Document24]
 DocumentPath=..\..\ALTIUM_LIBRARIES\RESISTORS.PcbLib
@@ -454,7 +454,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ETOUGTNE
 
 [Document25]
 DocumentPath=..\..\ALTIUM_LIBRARIES\RESISTORS.SchLib
@@ -471,7 +471,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PTMBDOET
 
 [Document26]
 DocumentPath=..\..\ALTIUM_LIBRARIES\SWITCH REGULATORS.PcbLib
@@ -488,7 +488,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HJHQCLYC
 
 [Document27]
 DocumentPath=..\..\ALTIUM_LIBRARIES\SWITCH REGULATORS.SchLib
@@ -505,7 +505,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DVJEUUYL
 
 [Document28]
 DocumentPath=..\..\ALTIUM_LIBRARIES\VARIABLE RESISTORS.PcbLib
@@ -522,7 +522,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NRYNLHQA
 
 [Document29]
 DocumentPath=..\..\ALTIUM_LIBRARIES\VARIABLE RESISTORS.SchLib
@@ -539,7 +539,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XISJLTDE
 
 [Document30]
 DocumentPath=..\..\ALTIUM_LIBRARIES\SLIDE SWITCH.PcbLib
@@ -556,7 +556,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CBNBBWUN
 
 [Document31]
 DocumentPath=..\..\ALTIUM_LIBRARIES\SLIDE SWITCH.SchLib
@@ -573,7 +573,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MVXJILBK
 
 [Document32]
 DocumentPath=..\..\ALTIUM_LIBRARIES\HOLE.PcbLib
@@ -590,7 +590,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BHOOLBET
 
 [Document33]
 DocumentPath=..\..\ALTIUM_LIBRARIES\HOLE.SchLib
@@ -607,7 +607,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XKGKWVOL
 
 [Configuration1]
 Name=Sources
@@ -1552,10 +1552,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=HOLE.SchLib
+ComponentDesignItemID0=HOLE 3.1mm
+ComponentSymbolReference0=HOLE 3.1mm
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1569,6 +1575,19 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Library Reference
+ParameterUpdate3=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=HOLE 3.1mm
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
