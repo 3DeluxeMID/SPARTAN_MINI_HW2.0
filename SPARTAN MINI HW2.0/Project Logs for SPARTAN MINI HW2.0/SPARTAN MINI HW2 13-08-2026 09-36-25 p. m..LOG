@@ -1,0 +1,131 @@
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0603
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found LED RGB FM-B2020RGBA-HG
+Add Component: Footprint Not Found SOD-323-2
+Add Component: Footprint Not Found LED0603 RED
+Add Component: Footprint Not Found LED0603 BLUE
+Add Component: Footprint Not Found 218-4LPSTR
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found PINHEADER SENSOR CONNECTOR 3X
+Add Component: Footprint Not Found JTAG
+Add Component: Footprint Not Found ING. MAKER RTT
+Add Component: Footprint Not Found BATTERY CONNECTOR
+Add Component: Footprint Not Found MOTOR CONN
+Add Component: Footprint Not Found MOTOR CONN
+Add Component: Footprint Not Found JUMPER 3 PADS
+Add Component: Footprint Not Found JUMPER 3 PADS
+Add Component: Footprint Not Found JUMPER 2 PADS
+Add Component: Footprint Not Found INDUCTOR 4mm x 4mm x 2mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found SOIC-8
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found RES0603
+Add Component: Footprint Not Found PTS810SJK250SMTRLFS
+Add Component: Footprint Not Found PTS810SJK250SMTRLFS
+Add Component: Footprint Not Found SS12D00
+Add Component: Footprint Not Found LQFP-48
+Add Component: Footprint Not Found SOT23-6
+Add Component: Footprint Not Found HSOP8 EP
+Add Component: Footprint Not Found SOT25-5
+Add Component: Footprint Not Found HSOP8 EP
+Add Component: Footprint Not Found CRYSTAL 5mm X 3.2mm 830106162701
+Added Net: Name=3.3V
+Added Net: Name=5V
+Added Net: Name=GND
+Added Net: Name=LIPO
+Added Net: Name=NetC5_2
+Added Net: Name=NetC6_2
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_2
+Added Net: Name=NetC9_1
+Added Net: Name=NetC9_2
+Added Net: Name=NetD1_1
+Added Net: Name=NetD1_2
+Added Net: Name=NetD1_4
+Added Net: Name=NetD3_2
+Added Net: Name=NetD4_2
+Added Net: Name=NetDP1_5
+Added Net: Name=NetDP1_6
+Added Net: Name=NetDP1_7
+Added Net: Name=NetDP1_8
+Added Net: Name=NetJ1_3
+Added Net: Name=NetJ2_2
+Added Net: Name=NetJ2_3
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ3_3
+Added Net: Name=NetJ4_3
+Added Net: Name=NetJ5_3
+Added Net: Name=NetJ6_3
+Added Net: Name=NetJ7_3
+Added Net: Name=NetJ8_3
+Added Net: Name=NetJ9_2
+Added Net: Name=NetJ9_3
+Added Net: Name=NetJ10_3
+Added Net: Name=NetJ12_1
+Added Net: Name=NetJ12_2
+Added Net: Name=NetJ13_1
+Added Net: Name=NetJ13_2
+Added Net: Name=NetJP3_A
+Added Net: Name=NetQ1_G_A
+Added Net: Name=NetQ1_S_A
+Added Net: Name=NetR1_1
+Added Net: Name=NetR2_1
+Added Net: Name=NetR3_1
+Added Net: Name=NetR6_1
+Added Net: Name=NetR9_1
+Added Net: Name=NetR11_2
+Added Net: Name=NetR14_2
+Added Net: Name=NetR15_2
+Added Net: Name=NetU1_29
+Added Net: Name=NetU1_30
+Added Net: Name=NetU1_31
+Added Net: Name=NetU1_32
+Added Net: Name=VMOT
+Added Net: Name=VUSB
+Added Class: Name=LOGIC
+Added Class: Name=POWER

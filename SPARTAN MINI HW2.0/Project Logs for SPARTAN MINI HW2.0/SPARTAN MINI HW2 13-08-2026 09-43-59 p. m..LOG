@@ -1,0 +1,72 @@
+Add Component: Footprint Not Found JUMPER 3 PADS
+Add Component: Footprint Not Found JUMPER 3 PADS
+Add Component: Footprint Not Found JUMPER 2 PADS
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Add Component: Footprint Not Found HOLE 3.1mm
+Added Component: Designator=SW3(SS12D00)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Slide (Standard)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "DIP Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold,Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9.91mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "2000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.09mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "219-3MST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "2000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.68, 10=0.509, 50=0.509, 100=0.509, 1000=0.41, 10000=0.359 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 2"; Value = "1=0.68, 10=0.509, 50=0.509, 100=0.509, 1000=0.41, 10000=0.359 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 2"; Value = "6563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CRYSTAL 5mm X 3.2mm 830106162701
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP2-1
+Add Pin To Net: Unknown Pin: Pin JP2-2
+Add Pin To Net: Unknown Pin: Pin JP2-3
+Add Pin To Net: Unknown Pin: Pin JP3-1
+Add Pin To Net: Unknown Pin: Pin JP3-2
+Add Pin To Net: Unknown Pin: Pin MH1-5
+Add Pin To Net: Unknown Pin: Pin MH2-5
+Add Pin To Net: Unknown Pin: Pin MH3-5
+Add Pin To Net: Unknown Pin: Pin MH4-5
+Added Pin To Net: NetName=NetR9_1 Pin=SW3-1
+Added Pin To Net: NetName=NetQ1_G_A Pin=SW3-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component JP1 JUMPER 2 WAYS
+Add Class Member: Failed to add class member : Component JP2 JUMPER 2 WAYS
+Add Class Member: Failed to add class member : Component JP3 BOOT0
+Add Class Member: Failed to add class member : Component MH1 HOLE 3.1mm
+Add Class Member: Failed to add class member : Component MH2 HOLE 3.1mm
+Add Class Member: Failed to add class member : Component MH3 HOLE 3.1mm
+Add Class Member: Failed to add class member : Component MH4 HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component SW3 OFF/ON
+Add Class Member: Failed to add class member : Component Y1 8Mhz

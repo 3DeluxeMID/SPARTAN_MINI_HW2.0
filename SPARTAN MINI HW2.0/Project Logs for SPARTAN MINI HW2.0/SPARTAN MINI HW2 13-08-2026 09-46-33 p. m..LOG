@@ -1,0 +1,32 @@
+Add Component: Footprint Not Found JUMPER 3 PADS
+Add Component: Footprint Not Found JUMPER 3 PADS
+Add Component: Footprint Not Found JUMPER 2 PADS
+Added Component: Designator=MH1(HOLE 3.1mm)
+Added Component: Designator=MH2(HOLE 3.1mm)
+Added Component: Designator=MH3(HOLE 3.1mm)
+Added Component: Designator=MH4(HOLE 3.1mm)
+Add Component: Footprint Not Found CRYSTAL 5mm X 3.2mm 830106162701
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP2-1
+Add Pin To Net: Unknown Pin: Pin JP2-2
+Add Pin To Net: Unknown Pin: Pin JP2-3
+Add Pin To Net: Unknown Pin: Pin JP3-1
+Add Pin To Net: Unknown Pin: Pin JP3-2
+Add Pin To Net: Unknown Pin: Pin MH1-5
+Add Pin To Net: Unknown Pin: Pin MH2-5
+Add Pin To Net: Unknown Pin: Pin MH3-5
+Add Pin To Net: Unknown Pin: Pin MH4-5
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y1-4
+Add Class Member: Failed to add class member : Component JP1 JUMPER 2 WAYS
+Add Class Member: Failed to add class member : Component JP2 JUMPER 2 WAYS
+Add Class Member: Failed to add class member : Component JP3 BOOT0
+Added Member To Class: ClassName=POWER Member=Component MH1 HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH2 HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH3 HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH4 HOLE 3.1mm
+Add Class Member: Failed to add class member : Component Y1 8Mhz

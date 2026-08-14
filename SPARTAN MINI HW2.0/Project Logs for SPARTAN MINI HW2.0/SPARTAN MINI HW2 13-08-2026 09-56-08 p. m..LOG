@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=POWER Member=MH1
+Removed Member From Class: ClassName=POWER Member=MH2
+Removed Member From Class: ClassName=POWER Member=MH3
+Removed Member From Class: ClassName=POWER Member=MH4
+Added Component: Designator=MH?(HOLE 3.1mm)
+Added Component: Designator=MH?(HOLE 3.1mm)
+Added Component: Designator=MH?(HOLE 3.1mm)
+Added Component: Designator=MH?(HOLE 3.1mm)
+Add Pin To Net: Unknown Pin: Pin MH?-5
+Add Pin To Net: Unknown Pin: Pin MH?-5
+Add Pin To Net: Unknown Pin: Pin MH?-5
+Add Pin To Net: Unknown Pin: Pin MH?-5
+Added Member To Class: ClassName=POWER Member=Component C16 C22uF
+Added Member To Class: ClassName=POWER Member=Component C22 C22uF
+Added Member To Class: ClassName=POWER Member=Component C23 C22uF
+Added Member To Class: ClassName=POWER Member=Component MH? HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH? HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH? HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component MH? HOLE 3.1mm
+Added Member To Class: ClassName=POWER Member=Component R8 10KO
+Added Member To Class: ClassName=POWER Member=Component R10 47KO
+Added Member To Class: ClassName=POWER Member=Component R12 1KO
+Added Member To Class: ClassName=POWER Member=Component R14 18KO

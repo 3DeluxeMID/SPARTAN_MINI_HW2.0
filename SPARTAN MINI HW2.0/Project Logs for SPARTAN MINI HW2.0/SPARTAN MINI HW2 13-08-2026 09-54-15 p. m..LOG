@@ -1,0 +1,10 @@
+Add Pin To Net: Unknown Pin: Pin MH1-5
+Add Pin To Net: Unknown Pin: Pin MH2-5
+Add Pin To Net: Unknown Pin: Pin MH3-5
+Add Pin To Net: Unknown Pin: Pin MH4-5
+Added Member To Class: ClassName=POWER Member=Component C16 C22uF
+Added Member To Class: ClassName=POWER Member=Component C22 C22uF
+Added Member To Class: ClassName=POWER Member=Component R8 10KO
+Added Member To Class: ClassName=POWER Member=Component R10 47KO
+Added Member To Class: ClassName=POWER Member=Component R12 1KO
+Added Member To Class: ClassName=POWER Member=Component R14 18KO
