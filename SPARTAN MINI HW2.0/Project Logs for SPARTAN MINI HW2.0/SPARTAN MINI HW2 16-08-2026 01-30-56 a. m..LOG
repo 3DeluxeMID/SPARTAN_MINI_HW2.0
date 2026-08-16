@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LIPO Pin=J10-1
+Removed Pin From Net: NetName=LIPO Pin=J10-1
+Removed Pin From Net: NetName=GND Pin=J10-2
+Removed Pin From Net: NetName=GND Pin=J10-2
+Added Component: Designator=J10(BATTERY CONNECTOR SMALL)
+Added Pin To Net: NetName=LIPO Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2

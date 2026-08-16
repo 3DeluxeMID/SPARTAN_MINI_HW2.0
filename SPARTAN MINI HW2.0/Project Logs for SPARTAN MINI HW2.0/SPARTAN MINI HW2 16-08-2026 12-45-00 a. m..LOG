@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=3.3V Pin=C2-2
+Removed Pin From Net: NetName=3.3V Pin=C3-2
+Removed Pin From Net: NetName=3.3V Pin=C4-2
+Removed Pin From Net: NetName=3.3V Pin=C5-2
+Removed Pin From Net: NetName=5V Pin=J2-2
+Removed Pin From Net: NetName=5V Pin=J3-2
+Removed Pin From Net: NetName=5V Pin=J4-2
+Removed Pin From Net: NetName=5V Pin=J5-2
+Removed Pin From Net: NetName=5V Pin=J6-2
+Removed Pin From Net: NetName=5V Pin=J7-2
+Removed Pin From Net: NetName=3.3V Pin=R3-2
+Change Component Comment : Designator=JP? Old Comment=ENBLE RGB New Comment=ENABLE RGB
+Change Component Comment : Designator=D5 Old Comment=PWR New Comment=5V
+Added Component: Designator=JP?(JUMPER 2 PADS)
+Added Component: Designator=Q?(SOT-25-3)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-236-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Philippines"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "-1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "P-Channel PowerTrench® MOSFET, 2.5V Specified, -20V, -1.6A, 115mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Resistance"; Value = "115mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Export Control Classification Number (ECCN) Code"; Value = "EAR99"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "11ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8541.21.00.95"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.22mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "451pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "1997-06-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FDN338P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Breakdown Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = "-800mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.24, 10=0.857, 50=0.857, 100=0.542, 1000=0.248, 10000=0.22 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "115mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "115mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "11ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1459"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "512-FDN338P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold Voltage"; Value = "-800mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "16ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "10ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "30mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.05mm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0603)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.1, 10=0.008, 50=0.008, 100=0.006, 1000=0.005, 10000=0.002 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1469517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=C5-2
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=Q?-2
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R?-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 190, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Pin To Net: NetName=NetQ?_G Pin=R?-2
+Added Pin To Net: NetName=NetQ?_G Pin=Q?-1
+Added Net: Name=NetQ?_G
+Added Pin To Net: NetName=VCC Pin=J2-2
+Added Pin To Net: NetName=VCC Pin=J3-2
+Added Pin To Net: NetName=VCC Pin=J4-2
+Added Pin To Net: NetName=VCC Pin=J5-2
+Added Pin To Net: NetName=VCC Pin=J6-2
+Added Pin To Net: NetName=VCC Pin=J7-2
+Added Pin To Net: NetName=VCC Pin=JP?-2
+Added Pin To Net: NetName=VCC Pin=Q?-3
+Added Net: Name=VCC
+Added Member To Class: ClassName=POWER Member=Component JP? ENABLE SENS
+Added Member To Class: ClassName=POWER Member=Component Q? FDN338P
+Added Member To Class: ClassName=POWER Member=Component R? 10KO
