@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=D4-3
+Added Component: Designator=JP?(JUMPER 2 PADS)
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=NetD4_3 Pin=JP?-2
+Added Net: Name=NetD4_3
+Added Member To Class: ClassName=LOGIC Member=Component JP? ENABLE RGB

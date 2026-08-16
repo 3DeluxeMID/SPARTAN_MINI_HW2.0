@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=POWER Member=J12
+Removed Member From Class: ClassName=POWER Member=J13
+Added Component: Designator=J?(MOTOR CONN SMALL)
+Added Component: Designator=J?(MOTOR CONN SMALL)
+Added Component: Designator=J?(MOTOR CONN SMALL)
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=U5-6
+Added Net: Name=NetJ?_1
+Add Net: Net with name "NetJ?_1" already exists
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U5-8
+Added Net: Name=NetJ?_2
+Add Net: Net with name "NetJ?_2" already exists
+Added Member To Class: ClassName=POWER Member=Component J? MOTOR CONN SMALL
+Added Member To Class: ClassName=POWER Member=Component J? MOTOR CONN SMALL
+Added Member To Class: ClassName=POWER Member=Component J? MOTOR CONN SMALL
+Added Member To Class: ClassName=LOGIC Member=Component R1 10KO

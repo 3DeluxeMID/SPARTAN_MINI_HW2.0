@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3.3V Pin=D2-1
+Removed Pin From Net: NetName=VUSB Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Member From Class: ClassName=LOGIC Member=J9
+Change Component Description : Designator=C15 Old Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes New Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes |Murata GRM21BR61E226ME44K
+Change Component Description : Designator=C16 Old Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes New Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes |Murata GRM21BR61E226ME44K
+Change Component Description : Designator=C17 Old Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes New Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes |Murata GRM21BR61E226ME44K
+Change Component Description : Designator=C21 Old Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes New Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes |Murata GRM21BR61E226ME44K
+Change Component Description : Designator=C22 Old Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes New Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes |Murata GRM21BR61E226ME44K
+Change Component Description : Designator=C23 Old Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes New Description=Cap, 22Uf, 25V, Mlcc, 0805 Rohs Compliant: Yes |Murata GRM21BR61E226ME44K
+Change Component Description : Designator=D3 Old Description=Led, Red, 630 Nm, 1.9 V, 30 Ma, 60 Mcd Rohs Compliant: Yes New Description=Led, Red, 630 Nm, 1.9 V, 30 Ma, 60 Mcd Rohs Compliant: Yes |Wurth Elektronik 150060SS75000
+Added Component: Designator=J?(UART PROG CONN)
+Added Pin To Net: NetName=5V Pin=D2-1
+Added Pin To Net: NetName=VUSB Pin=J?-5V
+Added Pin To Net: NetName=GND Pin=J?-GND
+Added Pin To Net: NetName=NetJ?_DTR Pin=J?-DTR
+Added Net: Name=NetJ?_DTR
+Added Pin To Net: NetName=NetJ?_RX Pin=J?-RX
+Added Net: Name=NetJ?_RX
+Added Pin To Net: NetName=NetJ?_TX Pin=J?-TX
+Added Net: Name=NetJ?_TX
+Added Member To Class: ClassName=LOGIC Member=Component J? FTDI CUST

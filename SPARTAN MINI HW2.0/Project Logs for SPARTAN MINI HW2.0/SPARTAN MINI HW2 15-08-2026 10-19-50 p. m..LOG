@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ12_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ12_2
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=U3-6
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=U3-8
+Added Net: Name=NetJ9_2
+Added Member To Class: ClassName=POWER Member=Component J9 MOTOR CONN SMALL

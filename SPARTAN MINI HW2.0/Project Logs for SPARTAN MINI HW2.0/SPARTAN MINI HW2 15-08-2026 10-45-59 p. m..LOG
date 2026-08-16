@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Member From Class: ClassName=LOGIC Member=C9
+Removed Member From Class: ClassName=POWER Member=D2
+Removed Member From Class: ClassName=LOGIC Member=J10
+Removed Member From Class: ClassName=POWER Member=R5
+Removed Member From Class: ClassName=LOGIC Member=R10
+Removed Member From Class: ClassName=LOGIC Member=R11
+Removed Member From Class: ClassName=LOGIC Member=SW4
+Added Component: Designator=JP1(JUMPER 2 PADS)
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_A Pin=SW1-1
+Added Pin To Net: NetName=NetJP1_A Pin=SW1-2
+Added Pin To Net: NetName=NetJP1_A Pin=SW1-3
+Added Pin To Net: NetName=NetJP1_A Pin=JP1-2
+Added Net: Name=NetJP1_A
+Added Member To Class: ClassName=LOGIC Member=Component C1 0.1uF
+Added Member To Class: ClassName=LOGIC Member=Component C2 0.1uF
+Added Member To Class: ClassName=LOGIC Member=Component C4 0.1uF
+Added Member To Class: ClassName=LOGIC Member=Component C6 1uF
+Added Member To Class: ClassName=POWER Member=Component C8 0.1uF
+Added Member To Class: ClassName=POWER Member=Component C10 10uF
+Added Member To Class: ClassName=POWER Member=Component C12 1uF
+Added Member To Class: ClassName=POWER Member=Component C14 0.1uF
+Added Member To Class: ClassName=POWER Member=Component C16 C22uF
+Added Member To Class: ClassName=POWER Member=Component C20 C22uF
+Added Member To Class: ClassName=POWER Member=Component C22 C22uF
+Added Member To Class: ClassName=LOGIC Member=Component D1 G
+Added Member To Class: ClassName=LOGIC Member=Component D3 BAT60JFILM
+Added Member To Class: ClassName=POWER Member=Component D5 5V
+Added Member To Class: ClassName=LOGIC Member=Component J7 GENERIC SENSOR 3X
+Added Member To Class: ClassName=LOGIC Member=Component J9 RTT
+Added Member To Class: ClassName=POWER Member=Component J11 MOTOR CONN SMALL
+Added Member To Class: ClassName=LOGIC Member=Component JP1 SINGLE JUMPER
+Added Member To Class: ClassName=LOGIC Member=Component R2 10KO
+Added Member To Class: ClassName=LOGIC Member=Component R4 10KO
+Added Member To Class: ClassName=LOGIC Member=Component R6 10KO
+Added Member To Class: ClassName=POWER Member=Component R7 88.7KO
+Added Member To Class: ClassName=POWER Member=Component R8 1KO
+Added Member To Class: ClassName=POWER Member=Component R9 10KO
+Added Member To Class: ClassName=POWER Member=Component R12 47KO
+Added Member To Class: ClassName=POWER Member=Component R13 4.7K
+Added Member To Class: ClassName=LOGIC Member=Component SW1 STRATEGY
+Added Member To Class: ClassName=LOGIC Member=Component SW3 BUTTON1
+Added Room: Name=LOGIC
